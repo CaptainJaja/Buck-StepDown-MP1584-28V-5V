@@ -462,7 +462,8 @@
     "pinned_footprint_libs": [
       "MP1584",
       "CDRH127F",
-      "DO-214AD"
+      "DO-214AD",
+      "Logos_Ensea"
     ],
     "pinned_symbol_libs": [
       "MP1584"

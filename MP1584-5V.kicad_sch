@@ -5,7 +5,9 @@
 	(uuid "341aedb0-4684-4d3b-aa38-08770434fb8b")
 	(paper "A4")
 	(title_block
-		(title "Janus's 5V DC-DC Buck Converter")
+		(title "Takes up to 28V and gives 5V as output")
+		(comment 1 "Takes up to 28V and 3A")
+		(comment 2 "This is a 5V DC-DC Buck StepDown converter ")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
