@@ -1,10 +1,8 @@
-# Buck Step-Down MP1584 - 28V to 5V
+# Buck Step-Down MP1584 – 28V vers 5V
 
-Ce projet KiCad implémente un **convertisseur abaisseur (step-down)** basé sur le **MP1584**, permettant de convertir une tension d'entrée allant jusqu'à **28V** en **5V stabilisé** avec un courant de sortie maximal de 3A.
+Ce projet KiCad implémente un **convertisseur abaisseur (step-down)** basé sur le **MP1584**, capable de convertir une tension d'entrée allant jusqu'à **28V** en une sortie **stabilisée à 5V** avec un courant maximal de **3A**.
 
-Le PCB a été conçu pour :
-- respecter les bonnes pratiques de découpage (zones GND séparées en top, reliées en bottom),
-- fournir une alimentation compacte et fiable pour circuits 5V.
+Le circuit imprimé a été conçu pour être **compact** et facile à intégrer, avec des dimensions de **24.5 mm × 28 mm**.
 
 ---
 
@@ -20,6 +18,4 @@ Le PCB a été conçu pour :
 
 ## 📄 Datasheet
 
-La **datasheet du MP1584** est disponible dans le répertoire, sous le nom :
-
-
+La **datasheet du MP1584** est disponible dans le répertoire sous le nom : `MP1584.PDF`
